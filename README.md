@@ -1,5 +1,7 @@
 #  Play 2 Hello World clickstart
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7944f812-e1ea-4781-8602-757557f71c65.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/play2-clickstart?orgId=451115019187)  
+
 This clickstart sets up a SBT build service, repository and a basic Play 2 application.
 
 <a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/play2-clickstart/master/clickstart.json"><img src="https://s3.amazonaws.com/cloudbees-downloads/clickstart/clickstart-now.png"/></a>
